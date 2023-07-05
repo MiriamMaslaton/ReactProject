@@ -1,0 +1,13 @@
+[
+    {"key":"1","name": "מכונית","description": " מכונית האודי 2023  7 מקומות","price": "60","img": "car.JPG"},
+    {"key":"2","name": "חופשת קיץ משפחתית באירופה","description": "6 כרטיסי טיסה הלוך חזור לאירופה ", "price": "40", "img": "vacation.jpg"},
+    {"key":"3","name": "טיסה זוגית לניו יורק", "description": "פלוס אלף דולר לשופינג", "price": "40", "img": "flight.jpg"},
+    {"key":"4","name": "מטבח", "description": "12 מטר ארונות,שיש קיסר, זוג כיורים ", "price": "30", "img": "kitchen.jpg"},
+    {"key":"5","name": "חדר שינה ", "description": "חדר שינה או חדר ילדים מרוהט קומפלט", "price": "25", "img": "bedroom.jpg"},
+    {"key":"6","name": "צמיד לפי בחירה", "description": "צמיד חדיש לפי בחירת הזוכה במספר חניות יוקרה", "price": "25", "img": "bracelet.jpg"},
+    {"key":"7","name": "כינור", "description": "כינור יוקרתי, מעץ מלא מפיק צלילים אומנותיים", "price": "30", "img": "violin.jpg"},
+    {"key":"8","name": "מוצר חשמלי לבחירה", "description": "מוצר חשמלי אחד לבחירת הזוכה מתוך הדגמים הנבחרים","price": "35", "img": "electrical.jpg"},
+    {"key":"9","name": "נופש זוגי בבית מלון", "description": "לשני לילות ", "price": "25", "img": "hotel.jpg"},
+    {"key":"10","name": "משקפי שמש יוקרתיות", "description": "מותג נבחר", "price": "20", "img": "sunglasses.jpg"},
+    {"key": "11" ,"name": "שעון מותג", "description": "שעון יוקרתי של  טומי או מייקל קורס לבחירה", "price": "20", "img": "wetch.jpg"}
+]

@@ -1,0 +1,32 @@
+.div1{
+    color:cadetblue;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin:auto;
+}
+.divProductDetails{
+     width: "35%";
+     margin: "0 auto";
+     color:rgb(41, 56, 69);
+     font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+#divAllDonations{
+    width: "60%";
+    margin: "auto";
+    color:rgb(79, 78, 81);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+#OwnerDetails{
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+    'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-color: cadetblue;
+    background-color: aliceblue;
+    color: aqua;
+    border-style:dotted;
+}
+#FromDo{
+    margin: 20%;
+    text-align: center;
+    text-shadow: 0cqmax;
+    text-decoration-color: aqua;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

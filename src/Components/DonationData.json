@@ -1,0 +1,32 @@
+[
+    {
+        "userName": "דני כהן",
+        "prizeName": "טיסה",
+        "ticketsNum": "2",
+        "donationSum": "1200"
+    },
+    {
+        "userName": "נחום חיים",
+        "prizeName": "מזוודה",
+        "ticketsNum": "7",
+        "donationSum": "200"
+    },
+    {
+        "userName": "יוכי לוי",
+        "prizeName": "עיצוב חדר ילדים",
+        "ticketsNum": "6",
+        "donationSum": "12000"
+    },
+    {
+        "userName": "שושנה כהן",
+        "prizeName": "צילום ניו בורן",
+        "ticketsNum": "3",
+        "donationSum": "1200"
+    },
+    {
+        "userName": "רבקי מילר",
+        "prizeName": "ערכות פלימוביל",
+        "ticketsNum": "4",
+        "donationSum": "1100"
+    }
+]
